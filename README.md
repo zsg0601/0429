@@ -1,4 +1,4 @@
-# PUBG-WebMap
+# WebMap
 ![](static/demo.gif)
 
 ### custom reader
