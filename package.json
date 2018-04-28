@@ -1,5 +1,5 @@
 {
-  "name": "PUBG-Radar",
+  "name": "PUBG-WebMap",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,7 @@
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
+    "pako": "^1.0.6",
     "socket.io": "^2.0.4"
   }
 }

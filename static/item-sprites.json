@@ -1,0 +1,3294 @@
+[{
+  "index": -1,
+  "name": "Item_Ammo_12Guage_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.0,
+  "v": 0.35714287,
+  "u2": 0.11111111,
+  "v2": 0.2857143,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Ammo_9mm_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.11111111,
+  "v": 0.35714287,
+  "u2": 0.22222222,
+  "v2": 0.2857143,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Ammo_45ACP_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.22222222,
+  "v": 0.35714287,
+  "u2": 0.33333334,
+  "v2": 0.2857143,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Ammo_556mm_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.33333334,
+  "v": 0.35714287,
+  "u2": 0.44444445,
+  "v2": 0.2857143,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Ammo_762mm_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.44444445,
+  "v": 0.35714287,
+  "u2": 0.5555556,
+  "v2": 0.2857143,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Ammo_300Magnum_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.5555556,
+  "v": 0.35714287,
+  "u2": 0.6666667,
+  "v2": 0.2857143,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Armor_C_01_Lv3_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.33333334,
+  "v": 0.14285715,
+  "u2": 0.44444445,
+  "v2": 0.071428575,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Armor_D_01_Lv2_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.22222222,
+  "v": 0.14285715,
+  "u2": 0.33333334,
+  "v2": 0.071428575,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Armor_E_01_Lv1_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.7777778,
+  "v": 0.14285715,
+  "u2": 0.8888889,
+  "v2": 0.071428575,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Lower_AngledForeGrip_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.0,
+  "v": 0.8571429,
+  "u2": 0.11111111,
+  "v2": 0.7857143,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Lower_Foregrip_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.0,
+  "v": 0.7857143,
+  "u2": 0.11111111,
+  "v2": 0.71428573,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Magazine_Extended_Large_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.22222222,
+  "v": 0.7857143,
+  "u2": 0.33333334,
+  "v2": 0.71428573,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Magazine_Extended_Medium_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.11111111,
+  "v": 0.7857143,
+  "u2": 0.22222222,
+  "v2": 0.71428573,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Magazine_Extended_SniperRifle_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.33333334,
+  "v": 0.7857143,
+  "u2": 0.44444445,
+  "v2": 0.71428573,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Magazine_ExtendedQuickDraw_Large_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.22222222,
+  "v": 0.8571429,
+  "u2": 0.33333334,
+  "v2": 0.7857143,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Magazine_ExtendedQuickDraw_Medium_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.11111111,
+  "v": 0.8571429,
+  "u2": 0.22222222,
+  "v2": 0.7857143,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Magazine_ExtendedQuickDraw_SniperRifle_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.33333334,
+  "v": 0.8571429,
+  "u2": 0.44444445,
+  "v2": 0.7857143,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Muzzle_Compensator_Large_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.5555556,
+  "v": 0.7857143,
+  "u2": 0.6666667,
+  "v2": 0.71428573,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Muzzle_Compensator_Medium_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.44444445,
+  "v": 0.7857143,
+  "u2": 0.5555556,
+  "v2": 0.71428573,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Muzzle_Compensator_SniperRifle_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.6666667,
+  "v": 0.7857143,
+  "u2": 0.7777778,
+  "v2": 0.71428573,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Muzzle_FlashHider_Large_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.8888889,
+  "v": 0.92857146,
+  "u2": 1.0,
+  "v2": 0.8571429,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Muzzle_FlashHider_Medium_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.44444445,
+  "v": 0.7857143,
+  "u2": 0.5555556,
+  "v2": 0.71428573,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Muzzle_FlashHider_SniperRifle_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.8888889,
+  "v": 0.8571429,
+  "u2": 1.0,
+  "v2": 0.7857143,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Muzzle_Suppressor_Large_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.5555556,
+  "v": 0.8571429,
+  "u2": 0.6666667,
+  "v2": 0.7857143,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Muzzle_Suppressor_Medium_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.44444445,
+  "v": 0.8571429,
+  "u2": 0.5555556,
+  "v2": 0.7857143,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Muzzle_Suppressor_SniperRifle_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.6666667,
+  "v": 0.8571429,
+  "u2": 0.7777778,
+  "v2": 0.7857143,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Stock_AR_Composite_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.7777778,
+  "v": 0.7857143,
+  "u2": 0.8888889,
+  "v2": 0.71428573,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Stock_SniperRifle_BulletLoops_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.8888889,
+  "v": 0.7857143,
+  "u2": 1.0,
+  "v2": 0.71428573,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Stock_SniperRifle_CheekPad_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.8888889,
+  "v": 0.7857143,
+  "u2": 1.0,
+  "v2": 0.71428573,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Upper_ACOG_01_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.33333334,
+  "v": 0.92857146,
+  "u2": 0.44444445,
+  "v2": 0.8571429,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Upper_Aimpoint_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.22222222,
+  "v": 0.92857146,
+  "u2": 0.33333334,
+  "v2": 0.8571429,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Upper_CQBSS_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.44444445,
+  "v": 0.92857146,
+  "u2": 0.5555556,
+  "v2": 0.8571429,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Upper_DotSight_01_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.0,
+  "v": 0.92857146,
+  "u2": 0.11111111,
+  "v2": 0.8571429,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Attach_Weapon_Upper_Holosight_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.11111111,
+  "v": 0.92857146,
+  "u2": 0.22222222,
+  "v2": 0.8571429,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Back_C_01_Lv3_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.11111111,
+  "v": 0.14285715,
+  "u2": 0.22222222,
+  "v2": 0.071428575,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Back_C_02_Lv3_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.11111111,
+  "v": 0.14285715,
+  "u2": 0.22222222,
+  "v2": 0.071428575,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Back_E_01_Lv1_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.7777778,
+  "v": 0.14285715,
+  "u2": 0.8888889,
+  "v2": 0.071428575,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Back_E_02_Lv1_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.7777778,
+  "v": 0.14285715,
+  "u2": 0.8888889,
+  "v2": 0.071428575,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Back_F_01_Lv2_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.0,
+  "v": 0.14285715,
+  "u2": 0.11111111,
+  "v2": 0.071428575,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Back_F_02_Lv2_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.0,
+  "v": 0.14285715,
+  "u2": 0.11111111,
+  "v2": 0.071428575,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Boost_AdrenalineSyringe_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.7777778,
+  "v": 0.071428575,
+  "u2": 0.8888889,
+  "v2": 0.0,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Boost_EnergyDrink_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.5555556,
+  "v": 0.071428575,
+  "u2": 0.6666667,
+  "v2": 0.0,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Boost_PainKiller_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.6666667,
+  "v": 0.071428575,
+  "u2": 0.7777778,
+  "v2": 0.0,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Ghillie_01_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.0,
+  "v": 0.071428575,
+  "u2": 0.11111111,
+  "v2": 0.0,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Ghillie_02_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.0,
+  "v": 0.071428575,
+  "u2": 0.11111111,
+  "v2": 0.0,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Head_E_01_Lv1_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.6666667,
+  "v": 0.14285715,
+  "u2": 0.7777778,
+  "v2": 0.071428575,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Head_E_02_Lv1_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.6666667,
+  "v": 0.14285715,
+  "u2": 0.7777778,
+  "v2": 0.071428575,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Head_F_01_Lv2_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.44444445,
+  "v": 0.14285715,
+  "u2": 0.5555556,
+  "v2": 0.071428575,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Head_F_02_Lv2_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.44444445,
+  "v": 0.14285715,
+  "u2": 0.5555556,
+  "v2": 0.071428575,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Head_G_01_Lv3_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.5555556,
+  "v": 0.14285715,
+  "u2": 0.6666667,
+  "v2": 0.071428575,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Heal_Bandage_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.22222222,
+  "v": 0.071428575,
+  "u2": 0.33333334,
+  "v2": 0.0,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Heal_FirstAid_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.33333334,
+  "v": 0.071428575,
+  "u2": 0.44444445,
+  "v2": 0.0,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Heal_MedKit_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.44444445,
+  "v": 0.071428575,
+  "u2": 0.5555556,
+  "v2": 0.0,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_AK47_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.11111111,
+  "v": 0.6428572,
+  "u2": 0.22222222,
+  "v2": 0.5714286,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_AUG_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.5555556,
+  "v": 0.6428572,
+  "u2": 0.6666667,
+  "v2": 0.5714286,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_AWM_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.7777778,
+  "v": 0.71428573,
+  "u2": 0.8888889,
+  "v2": 0.6428572,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_Berreta686_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.22222222,
+  "v": 0.42857146,
+  "u2": 0.33333334,
+  "v2": 0.35714287,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_DP28_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.44444445,
+  "v": 0.5714286,
+  "u2": 0.5555556,
+  "v2": 0.5,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_FlashBang_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.11111111,
+  "v": 0.2857143,
+  "u2": 0.22222222,
+  "v2": 0.21428573,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_G18_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.33333334,
+  "v": 0.5,
+  "u2": 0.44444445,
+  "v2": 0.42857146,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_Grenade_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.33333334,
+  "v": 0.2857143,
+  "u2": 0.44444445,
+  "v2": 0.21428573,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_FlareGun_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.44444445,
+  "v": 0.2857143,
+  "u2": 0.5555556,
+  "v2": 0.21428573,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Ammo_Flare_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.5555556,
+  "v": 0.2857143,
+  "u2": 0.6666667,
+  "v2": 0.21428573,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_Groza_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.44444445,
+  "v": 0.6428572,
+  "u2": 0.5555556,
+  "v2": 0.5714286,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_HK416_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.33333334,
+  "v": 0.6428572,
+  "u2": 0.44444445,
+  "v2": 0.5714286,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_Kar98k_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.5555556,
+  "v": 0.71428573,
+  "u2": 0.6666667,
+  "v2": 0.6428572,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_M9_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.22222222,
+  "v": 0.5,
+  "u2": 0.33333334,
+  "v2": 0.42857146,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_M16A4_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.0,
+  "v": 0.6428572,
+  "u2": 0.11111111,
+  "v2": 0.5714286,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_M24_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.6666667,
+  "v": 0.71428573,
+  "u2": 0.7777778,
+  "v2": 0.6428572,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_M249_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.5555556,
+  "v": 0.5714286,
+  "u2": 0.6666667,
+  "v2": 0.5,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_M1911_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.11111111,
+  "v": 0.5,
+  "u2": 0.22222222,
+  "v2": 0.42857146,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_Mini14_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.44444445,
+  "v": 0.71428573,
+  "u2": 0.5555556,
+  "v2": 0.6428572,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_Mk14_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.22222222,
+  "v": 0.71428573,
+  "u2": 0.33333334,
+  "v2": 0.6428572,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_Molotov_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.22222222,
+  "v": 0.2857143,
+  "u2": 0.33333334,
+  "v2": 0.21428573,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_NagantM1895_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.0,
+  "v": 0.071428575,
+  "u2": 0.11111111,
+  "v2": 0.0,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_Pan_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.33333334,
+  "v": 0.21428573,
+  "u2": 0.44444445,
+  "v2": 0.14285715,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_Rhino_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.44444445,
+  "v": 0.5,
+  "u2": 0.5555556,
+  "v2": 0.42857146,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_Saiga12_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.11111111,
+  "v": 0.42857146,
+  "u2": 0.22222222,
+  "v2": 0.35714287,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_SawenOff_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.33333334,
+  "v": 0.42857146,
+  "u2": 0.44444445,
+  "v2": 0.35714287,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_SCAR-L_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.22222222,
+  "v": 0.6428572,
+  "u2": 0.33333334,
+  "v2": 0.5714286,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_SKS_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.33333334,
+  "v": 0.71428573,
+  "u2": 0.44444445,
+  "v2": 0.6428572,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_SmokeBomb_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.0,
+  "v": 0.2857143,
+  "u2": 0.11111111,
+  "v2": 0.21428573,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_Thompson_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.33333334,
+  "v": 0.5714286,
+  "u2": 0.44444445,
+  "v2": 0.5,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_UMP_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.11111111,
+  "v": 0.5714286,
+  "u2": 0.22222222,
+  "v2": 0.5,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_UZI_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.0,
+  "v": 0.5714286,
+  "u2": 0.11111111,
+  "v2": 0.5,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_Vector_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.22222222,
+  "v": 0.5714286,
+  "u2": 0.33333334,
+  "v2": 0.5,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_VSS_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.11111111,
+  "v": 0.71428573,
+  "u2": 0.22222222,
+  "v2": 0.6428572,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_Win94_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.0,
+  "v": 0.71428573,
+  "u2": 0.11111111,
+  "v2": 0.6428572,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, {
+  "index": -1,
+  "name": "Item_Weapon_Winchester_C",
+  "offsetX": 0.0,
+  "offsetY": 0.0,
+  "packedWidth": 64,
+  "packedHeight": 64,
+  "originalWidth": 64,
+  "originalHeight": 64,
+  "rotate": false,
+  "texture": {
+    "data": {
+      "file": {
+        "file": {
+          "path": "icons\\item-sprites.png"
+        },
+        "type": "Internal"
+      },
+      "width": 576,
+      "height": 896,
+      "format": "RGBA8888",
+      "useMipMaps": false,
+      "isPrepared": false
+    },
+    "glTarget": 3553,
+    "glHandle": 15,
+    "minFilter": "Linear",
+    "magFilter": "Linear",
+    "uWrap": "ClampToEdge",
+    "vWrap": "ClampToEdge"
+  },
+  "u": 0.0,
+  "v": 0.71428573,
+  "u2": 0.11111111,
+  "v2": 0.6428572,
+  "regionWidth": 64,
+  "regionHeight": 64
+}, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null]

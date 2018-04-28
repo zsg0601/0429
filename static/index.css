@@ -1,6 +1,7 @@
 body {
     padding: 0;
     margin: 0;
+    background: #000;
 }
 
 .container {
@@ -9,8 +10,15 @@ body {
     left: 0;
     right: 0;
     top: 0;
+    z-index: -1;
 }
 
 .container canvas {
     display: block;
+}
+
+.floatText {
+    z-index: 999999;
+    font-size: 0.8rem;
+    color: red;
 }

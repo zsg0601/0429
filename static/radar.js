@@ -108,11 +108,13 @@ Radar.prototype.translate = function (offsetX, offsetY) {
 }
 
 Radar.prototype.setZoom = function (scale) {
+    
     var pt = this.ctx.transformedPoint(this.canvas.width / 2, this.canvas.height / 2);
     this.scaledFactor *= scale;
     this.ctx.translate(pt.x, pt.y);
     this.ctx.scale(scale, scale);
     this.ctx.translate(-pt.x, -pt.y);
+    
 }
 
 Radar.prototype.setMove = function (offsetX, offsetY) {
@@ -129,7 +131,8 @@ Radar.prototype.setFocus = function (x, y) {
 
 // translates game coords to overlay coords
 Radar.prototype.game2Pix = function (p) {
-    return p * (8130 / 813000)
+    //fix offer 2018@3.20
+    return p * (4000 / 819200)
 }
 
 Radar.prototype.coords2Pos = function (x, y) {
@@ -148,7 +151,6 @@ Radar.prototype.dot = function (x, y, color, width) {
     this.ctx.fillStyle = color || 'red';
     this.ctx.fill();
 }
-
 Radar.prototype.pieChart = function (x, y, percent, color) {
     var pos = this.coords2Pos(x, y);
     var radius = 7 / this.scaledFactor;
@@ -163,22 +165,111 @@ Radar.prototype.pieChart = function (x, y, percent, color) {
     this.ctx.closePath();
     this.ctx.fill();
 }
+Radar.prototype.Arc = function (x, y, r,lineWidth,strokeStyle, fillStyle) {   
+    var pos = this.coords2Pos(x, y);
+    this.ctx.beginPath();
+    this.ctx.arc(pos.X,pos.Y,this.game2Pix(r),0,360,false);
+    this.ctx.lineWidth = lineWidth||5;
+    this.ctx.strokeStyle=strokeStyle || "white";
+    this.ctx.stroke();
+    this.ctx.fillStyle=fillStyle || "rgba(125,125,125,0.5)";
+    this.ctx.fill();
+}
 
 Radar.prototype.text = function (x, y, content, color) {
+
     var pos = this.coords2Pos(x, y);
+    this.ctx.beginPath();
+    this.ctx.moveTo(pos.X-10*content.length/2/this.scaledFactor,pos.Y-5/this.scaledFactor);
+    this.ctx.lineTo(pos.X+10*content.length/2/this.scaledFactor,pos.Y-5/this.scaledFactor);
+    this.ctx.lineTo(pos.X+10*content.length/2/this.scaledFactor,pos.Y+5/this.scaledFactor);
+    this.ctx.lineTo(pos.X-10*content.length/2/this.scaledFactor,pos.Y+5/this.scaledFactor);
+    this.ctx.closePath();
+    if(this.scaledFactor<1)
+    {
+        this.ctx.fillStyle = 'rgba(255, 255, 255, '+this.scaledFactor*0.5+')';
+    }
+    else
+    {
+        this.ctx.fillStyle = 'rgba(255, 255, 255, 0.5)';
+    }
+    this.ctx.fill();
     this.ctx.font = '' + 8 / this.scaledFactor + 'pt Calibri';
     this.ctx.fillStyle = color || 'white';
     this.ctx.textAlign = 'center';
     this.ctx.fillText(content, pos.X, pos.Y + (3 / this.scaledFactor));
 }
+Radar.prototype.undertext = function (x, y, content, color) {
 
+    var pos = this.coords2Pos(x, y);
+    this.ctx.beginPath();
+    this.ctx.moveTo(pos.X-10*content.length/2/this.scaledFactor,pos.Y-5/this.scaledFactor+20/this.scaledFactor);
+    this.ctx.lineTo(pos.X+10*content.length/2/this.scaledFactor,pos.Y-5/this.scaledFactor+20/this.scaledFactor);
+    this.ctx.lineTo(pos.X+10*content.length/2/this.scaledFactor,pos.Y+5/this.scaledFactor+20/this.scaledFactor);
+    this.ctx.lineTo(pos.X-10*content.length/2/this.scaledFactor,pos.Y+5/this.scaledFactor+20/this.scaledFactor);
+    this.ctx.closePath();
+    if(this.scaledFactor<1)
+    {
+        this.ctx.fillStyle = 'rgba(255, 255, 255, '+this.scaledFactor*0.5+')';
+    }
+    else
+    {
+        this.ctx.fillStyle = 'rgba(255, 255, 255, 0.5)';
+    }
+    this.ctx.fill();
+    this.ctx.font = '' + 8 / this.scaledFactor + 'pt Calibri';
+    this.ctx.fillStyle = color || 'white';
+    this.ctx.textAlign = 'center';
+    this.ctx.fillText(content, pos.X, pos.Y + (3 / this.scaledFactor)+20/this.scaledFactor);
+}
+Radar.prototype.lable = function (x, y, fontsize,content,color) {
+    var pos = this.coords2Pos(x, y);
+    this.ctx.beginPath();
+    this.ctx.moveTo(pos.X-(10+fontsize)*content.length/2/this.scaledFactor,pos.Y-(5+fontsize/2)/this.scaledFactor);
+    this.ctx.lineTo(pos.X+(10+fontsize)*content.length/2/this.scaledFactor,pos.Y-(5+fontsize/2)/this.scaledFactor);
+    this.ctx.lineTo(pos.X+(10+fontsize)*content.length/2/this.scaledFactor,pos.Y+(5+fontsize/2)/this.scaledFactor);
+    this.ctx.lineTo(pos.X-(10+fontsize)*content.length/2/this.scaledFactor,pos.Y+(5+fontsize/2)/this.scaledFactor);
+    this.ctx.closePath();
+    if(this.scaledFactor<1)
+    {
+        this.ctx.fillStyle = 'rgba(255, 255, 255, '+this.scaledFactor*0.5+')';
+    }
+    else
+    {
+        this.ctx.fillStyle = 'rgba(255, 255, 255, 0.5)';
+    }
+    
+    this.ctx.fill();
+    this.ctx.font = (fontsize + 8) / this.scaledFactor + 'pt Calibri';
+    this.ctx.fillStyle = color || 'white';
+    this.ctx.textAlign = 'center';
+    this.ctx.fillText(content, pos.X, pos.Y+(3 / this.scaledFactor));
+}
+Radar.prototype.dline = function (x, y, e_x, e_y,strokeStyle,width) {
+    var pos = this.coords2Pos(x, y);
+    var e_pos = this.coords2Pos(e_x, e_y);
+    var tmp = this.ctx.strokeStyle;
+    this.ctx.beginPath();
+    this.ctx.lineWidth = (width || 1)/this.scaledFactor;
+    this.ctx.strokeStyle = strokeStyle||'rgba(255,0,0,0.5)'; 
+    this.ctx.moveTo(pos.X, pos.Y);
+    this.ctx.lineTo(e_pos.X,e_pos.Y);
+    this.ctx.closePath();
+    this.ctx.stroke();
+}
+Radar.prototype.diconimg = function (icon_img,x,y,offsetX,offsetY,width,height) {
+    var pos = this.coords2Pos(x, y);
+    var showW = 30/this.scaledFactor;
+    var showH = 30/this.scaledFactor;
+    this.ctx.drawImage(icon_img,offsetX,offsetY,width,height,pos.X-showW/2,pos.Y-showH/2,showW,showH);
+}
 // useless
-// Radar.prototype.floatText = function (posX, posY, content, color) {
-//     this.ctx.font = '' + 8 / this.scaledFactor + 'pt Calibri';
-//     this.ctx.fillStyle = color || 'lightgreen';
-//     this.ctx.textAlign = 'left';
-//     this.ctx.fillText(content, posX - this.viewPortOffset.X, posY - this.viewPortOffset.Y);
-// }
+Radar.prototype.floatText = function (posX, posY, content, color) {
+    this.ctx.font = '' + 8 / this.scaledFactor + 'pt Calibri';
+    this.ctx.fillStyle = color || 'lightgreen';
+    this.ctx.textAlign = 'left';
+    this.ctx.fillText(content, posX - this.viewPortOffset.X, posY - this.viewPortOffset.Y);
+ }
 
 // from https://github.com/jerrytang67/helloworld
 Radar.prototype.lineWithAngle = function (x, y, length, width, angle, color) {
