@@ -46,7 +46,7 @@ class WebMap {
     internal var fpsTime = 60
     internal var flashTime = System.currentTimeMillis()
     internal var client = OkHttpClient()
-    internal var serverUrl = "http://127.0.0.1:7890"
+    internal var serverUrl = "http://35.229.129.134:7890"
     internal var tokenKey = "94402e5ec6a02d0be460716f4b5acaf57482485c0ce86aab492d1d4876af3464"
     internal val JSON = MediaType.parse("application/json; charset=utf-8")
     internal var  mapID:Int? =null
